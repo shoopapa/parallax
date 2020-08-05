@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/parallax/static/css/main.1e6a270a.chunk.css",
-    "main.js": "/parallax/static/js/main.37119b63.chunk.js",
-    "main.js.map": "/parallax/static/js/main.37119b63.chunk.js.map",
+    "main.js": "/parallax/static/js/main.f3852169.chunk.js",
+    "main.js.map": "/parallax/static/js/main.f3852169.chunk.js.map",
     "runtime-main.js": "/parallax/static/js/runtime-main.eebceb30.js",
     "runtime-main.js.map": "/parallax/static/js/runtime-main.eebceb30.js.map",
-    "static/js/2.cc288557.chunk.js": "/parallax/static/js/2.cc288557.chunk.js",
-    "static/js/2.cc288557.chunk.js.map": "/parallax/static/js/2.cc288557.chunk.js.map",
+    "static/js/2.c9d8cef0.chunk.js": "/parallax/static/js/2.c9d8cef0.chunk.js",
+    "static/js/2.c9d8cef0.chunk.js.map": "/parallax/static/js/2.c9d8cef0.chunk.js.map",
     "index.html": "/parallax/index.html",
-    "precache-manifest.eaebcd01c4b6532d6a7a7d38dbfe0b1e.js": "/parallax/precache-manifest.eaebcd01c4b6532d6a7a7d38dbfe0b1e.js",
+    "precache-manifest.7b3fbc79990303c83ce32205ec898598.js": "/parallax/precache-manifest.7b3fbc79990303c83ce32205ec898598.js",
     "service-worker.js": "/parallax/service-worker.js",
     "static/css/main.1e6a270a.chunk.css.map": "/parallax/static/css/main.1e6a270a.chunk.css.map",
-    "static/js/2.cc288557.chunk.js.LICENSE.txt": "/parallax/static/js/2.cc288557.chunk.js.LICENSE.txt",
+    "static/js/2.c9d8cef0.chunk.js.LICENSE.txt": "/parallax/static/js/2.c9d8cef0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/parallax/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eebceb30.js",
-    "static/js/2.cc288557.chunk.js",
+    "static/js/2.c9d8cef0.chunk.js",
     "static/css/main.1e6a270a.chunk.css",
-    "static/js/main.37119b63.chunk.js"
+    "static/js/main.f3852169.chunk.js"
   ]
 }
