@@ -1,13 +1,15 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
-  Route
+  Route,
+  Link,
 } from "react-router-dom";
 import './App.css'
 import logo from './logo.svg'
 import FireWatch from './Pages/FireWatch.js'
 import SvgTest from './Pages/SvgTest.js'
+import BlackGirl from './Pages/Art/BlackGirl/BlackGirl.js'
 
 import { ParallaxProvider } from 'react-scroll-parallax';
  
@@ -16,15 +18,23 @@ export default function App() {
   return (
     <Router>
         <Switch>
-          <Route path="/firewatch">
+          <Route path="/parallax/firewatch">
             <ParallaxProvider>
               <FireWatch />
             </ParallaxProvider>
           </Route>
-          <Route path="/svg">
+          <Route path="/blackgirl">
+            <ParallaxProvider>
+              <BlackGirl />
+            </ParallaxProvider>
+          </Route>
+          <Route path="/parallax/svg">
             <ParallaxProvider>
               <SvgTest />
             </ParallaxProvider>
+          </Route>
+          <Route path="/parallax">
+            <Home />
           </Route>
           <Route path="/">
             <Home />
@@ -43,14 +53,10 @@ function Home() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Link to='/blackgirl'> /firewatch
+        </Link>
+        <Link to='/parallax/firewatch'> /parallax/firewatch
+        </Link>
       </header>
     </div>
   );
