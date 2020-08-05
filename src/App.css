@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height:150vh;
+}
+.Svg-app {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height:200vh;
+  background-color: black;
+  background-repeat: "repeat";
+  background-image: url("https://react-scroll-parallax-next.surge.sh/static/media/bg-grid.061054b8.svg");
+  width:100%;
 }
 
 .App-logo {
@@ -17,7 +34,7 @@
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);

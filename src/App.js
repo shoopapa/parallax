@@ -1,8 +1,41 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import './App.css'
+import logo from './logo.svg'
+import FireWatch from './Pages/FireWatch.js'
+import SvgTest from './Pages/SvgTest.js'
 
-function App() {
+import { ParallaxProvider } from 'react-scroll-parallax';
+ 
+
+export default function App() {
+  return (
+    <Router>
+        <Switch>
+          <Route path="/firewatch">
+            <ParallaxProvider>
+              <FireWatch />
+            </ParallaxProvider>
+          </Route>
+          <Route path="/svg">
+            <ParallaxProvider>
+              <SvgTest />
+            </ParallaxProvider>
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+    </Router>
+  );
+}
+
+function Home() {
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -22,5 +55,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
