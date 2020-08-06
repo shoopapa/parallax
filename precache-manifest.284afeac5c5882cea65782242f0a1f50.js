@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70c48ce737e86329b25c7f108a2fe456",
+    "revision": "56f2087b54f99c20192fe5e31b9eda56",
     "url": "/parallax/index.html"
   },
   {
-    "revision": "22cdcf23a7fc1ee70670",
-    "url": "/parallax/static/css/main.b9a95020.chunk.css"
+    "revision": "ebd4621984ccf884cf5c",
+    "url": "/parallax/static/css/main.e9f11a2f.chunk.css"
   },
   {
-    "revision": "d5c49d6446a372cc3a43",
-    "url": "/parallax/static/js/2.a6c5849e.chunk.js"
+    "revision": "a032452204a4b78d3ee7",
+    "url": "/parallax/static/js/2.60ad29bd.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/parallax/static/js/2.a6c5849e.chunk.js.LICENSE.txt"
+    "url": "/parallax/static/js/2.60ad29bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22cdcf23a7fc1ee70670",
-    "url": "/parallax/static/js/main.c38ec6de.chunk.js"
+    "revision": "ebd4621984ccf884cf5c",
+    "url": "/parallax/static/js/main.28ef144b.chunk.js"
   },
   {
     "revision": "5c064d4b6dbe84ab9cc2",
