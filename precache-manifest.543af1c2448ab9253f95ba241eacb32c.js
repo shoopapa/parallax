@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "637d197158a630d9b40e817d485a1cd3",
+    "revision": "05b8af37223bd86cc86265fef8595bf2",
     "url": "/parallax/index.html"
   },
   {
-    "revision": "a388bcf41bb32c93b923",
-    "url": "/parallax/static/css/main.656c7bec.chunk.css"
+    "revision": "4a9a9d6fd36c04b504ac",
+    "url": "/parallax/static/css/main.82fa92d9.chunk.css"
   },
   {
-    "revision": "eafa5d46309a9d8ffd22",
-    "url": "/parallax/static/js/2.509d6f5d.chunk.js"
+    "revision": "6283d4cdd6f5605323c3",
+    "url": "/parallax/static/js/2.bb99e5c8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/parallax/static/js/2.509d6f5d.chunk.js.LICENSE.txt"
+    "url": "/parallax/static/js/2.bb99e5c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a388bcf41bb32c93b923",
-    "url": "/parallax/static/js/main.a32e2234.chunk.js"
+    "revision": "4a9a9d6fd36c04b504ac",
+    "url": "/parallax/static/js/main.483e205e.chunk.js"
   },
   {
     "revision": "5c064d4b6dbe84ab9cc2",
     "url": "/parallax/static/js/runtime-main.3ab6b7f4.js"
-  },
-  {
-    "revision": "100a26cfe9f9274aae8b03f07d77d753",
-    "url": "/parallax/static/media/anomaly0.100a26cf.png"
-  },
-  {
-    "revision": "c0cc20ae1c581fdf69e2afc47398f26c",
-    "url": "/parallax/static/media/anomaly1.c0cc20ae.png"
   },
   {
     "revision": "ffcf9fbf9ccf6112ce71b3b100083f39",
