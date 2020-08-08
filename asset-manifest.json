@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/parallax/static/css/main.656c7bec.chunk.css",
-    "main.js": "/parallax/static/js/main.ee235ea3.chunk.js",
-    "main.js.map": "/parallax/static/js/main.ee235ea3.chunk.js.map",
+    "main.js": "/parallax/static/js/main.cc6b530f.chunk.js",
+    "main.js.map": "/parallax/static/js/main.cc6b530f.chunk.js.map",
     "runtime-main.js": "/parallax/static/js/runtime-main.3ab6b7f4.js",
     "runtime-main.js.map": "/parallax/static/js/runtime-main.3ab6b7f4.js.map",
-    "static/js/2.a51c2a8c.chunk.js": "/parallax/static/js/2.a51c2a8c.chunk.js",
-    "static/js/2.a51c2a8c.chunk.js.map": "/parallax/static/js/2.a51c2a8c.chunk.js.map",
+    "static/js/2.509d6f5d.chunk.js": "/parallax/static/js/2.509d6f5d.chunk.js",
+    "static/js/2.509d6f5d.chunk.js.map": "/parallax/static/js/2.509d6f5d.chunk.js.map",
     "index.html": "/parallax/index.html",
-    "precache-manifest.6cd762e3f0b73fa054de09736f65d9a9.js": "/parallax/precache-manifest.6cd762e3f0b73fa054de09736f65d9a9.js",
+    "precache-manifest.c493c15367f449b7b5e8f5d82bb1756b.js": "/parallax/precache-manifest.c493c15367f449b7b5e8f5d82bb1756b.js",
     "service-worker.js": "/parallax/service-worker.js",
     "static/css/main.656c7bec.chunk.css.map": "/parallax/static/css/main.656c7bec.chunk.css.map",
-    "static/js/2.a51c2a8c.chunk.js.LICENSE.txt": "/parallax/static/js/2.a51c2a8c.chunk.js.LICENSE.txt",
-    "static/media/anomaly0.jpeg": "/parallax/static/media/anomaly0.918ccdfa.jpeg",
-    "static/media/anomaly1.png": "/parallax/static/media/anomaly1.eafe588e.png",
-    "static/media/anomaly2.png": "/parallax/static/media/anomaly2.82762940.png",
-    "static/media/anomaly3.png": "/parallax/static/media/anomaly3.cd2ba21e.png",
-    "static/media/anomaly4.png": "/parallax/static/media/anomaly4.6820763f.png",
-    "static/media/anomaly5.png": "/parallax/static/media/anomaly5.7542b9a4.png",
+    "static/js/2.509d6f5d.chunk.js.LICENSE.txt": "/parallax/static/js/2.509d6f5d.chunk.js.LICENSE.txt",
+    "static/media/anomaly0.png": "/parallax/static/media/anomaly0.100a26cf.png",
+    "static/media/anomaly1.png": "/parallax/static/media/anomaly1.c0cc20ae.png",
+    "static/media/anomaly2.png": "/parallax/static/media/anomaly2.ffcf9fbf.png",
+    "static/media/anomaly3.png": "/parallax/static/media/anomaly3.a64befc9.png",
+    "static/media/anomaly4.png": "/parallax/static/media/anomaly4.f4cd87d7.png",
     "static/media/blackGirl0.png": "/parallax/static/media/blackGirl0.dec534f9.png",
     "static/media/blackGirl1.png": "/parallax/static/media/blackGirl1.485e985a.png",
     "static/media/blackGirl2.png": "/parallax/static/media/blackGirl2.94045bd2.png",
@@ -25,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3ab6b7f4.js",
-    "static/js/2.a51c2a8c.chunk.js",
+    "static/js/2.509d6f5d.chunk.js",
     "static/css/main.656c7bec.chunk.css",
-    "static/js/main.ee235ea3.chunk.js"
+    "static/js/main.cc6b530f.chunk.js"
   ]
 }
