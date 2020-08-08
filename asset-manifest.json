@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/parallax/static/css/main.656c7bec.chunk.css",
-    "main.js": "/parallax/static/js/main.53364743.chunk.js",
-    "main.js.map": "/parallax/static/js/main.53364743.chunk.js.map",
+    "main.js": "/parallax/static/js/main.a32e2234.chunk.js",
+    "main.js.map": "/parallax/static/js/main.a32e2234.chunk.js.map",
     "runtime-main.js": "/parallax/static/js/runtime-main.3ab6b7f4.js",
     "runtime-main.js.map": "/parallax/static/js/runtime-main.3ab6b7f4.js.map",
     "static/js/2.509d6f5d.chunk.js": "/parallax/static/js/2.509d6f5d.chunk.js",
     "static/js/2.509d6f5d.chunk.js.map": "/parallax/static/js/2.509d6f5d.chunk.js.map",
     "index.html": "/parallax/index.html",
-    "precache-manifest.3065856a4100aeac16680b2c51b6447c.js": "/parallax/precache-manifest.3065856a4100aeac16680b2c51b6447c.js",
+    "precache-manifest.8cd175b73d8c7ccb12b1f981fd12241c.js": "/parallax/precache-manifest.8cd175b73d8c7ccb12b1f981fd12241c.js",
     "service-worker.js": "/parallax/service-worker.js",
     "static/css/main.656c7bec.chunk.css.map": "/parallax/static/css/main.656c7bec.chunk.css.map",
     "static/js/2.509d6f5d.chunk.js.LICENSE.txt": "/parallax/static/js/2.509d6f5d.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.3ab6b7f4.js",
     "static/js/2.509d6f5d.chunk.js",
     "static/css/main.656c7bec.chunk.css",
-    "static/js/main.53364743.chunk.js"
+    "static/js/main.a32e2234.chunk.js"
   ]
 }

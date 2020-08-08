@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "251f2232494f97330517fe9305283ade",
+    "revision": "637d197158a630d9b40e817d485a1cd3",
     "url": "/parallax/index.html"
   },
   {
-    "revision": "6cbf6370478d26c5c50b",
+    "revision": "a388bcf41bb32c93b923",
     "url": "/parallax/static/css/main.656c7bec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parallax/static/js/2.509d6f5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cbf6370478d26c5c50b",
-    "url": "/parallax/static/js/main.53364743.chunk.js"
+    "revision": "a388bcf41bb32c93b923",
+    "url": "/parallax/static/js/main.a32e2234.chunk.js"
   },
   {
     "revision": "5c064d4b6dbe84ab9cc2",
