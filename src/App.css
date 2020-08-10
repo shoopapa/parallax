@@ -5,6 +5,7 @@
   width: 100%;
   height:150vh;
 }
+
 .Svg-app {
   text-align: center;
   display: flex;
@@ -13,22 +14,42 @@
   flex-direction: column;
   width: 100%;
   height:200vh;
-  background-color: black;
+  background-color: '#000a13';
   background-repeat: "repeat";
   background-image: url("https://react-scroll-parallax-next.surge.sh/static/media/bg-grid.061054b8.svg");
   width:100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Anomaly {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height:270vh;
+  position: relative;
+  background-color: #000a13;
+  overflow-y: scroll;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.Black-girl {
+  overflow: auto;
+  background-size: 110%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height:300vh;
+  width:100%;
 }
+
+*{
+  transform: translate3d(0,0,0);
+
+}
+
 
 .App-header {
   background-color: #282c34;

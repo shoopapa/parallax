@@ -17,12 +17,8 @@ import { ParallaxBanner } from 'react-scroll-parallax';
 
 
 const FireWatchImages = [1,2,3,4,5,6,7,8,9]
-const paralax = FireWatchImages.map((_,i)=>1-((i-8)**2)/64 -.001).reverse()
-console.log(FireWatchImages.map((_,i)=>({
-  image: `http://www.firewatchgame.com/images/parallax/parallax${i}@2x.png`,
-  amount: paralax[i],
-  expanded:false
-})))
+const paralax = FireWatchImages.map((_,i)=>1-((i-8)**2)/64).reverse()
+
 const FireWatch = () => {
   // const classes = useStyles();
   return (

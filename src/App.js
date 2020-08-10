@@ -10,36 +10,43 @@ import logo from './logo.svg'
 import FireWatch from './Pages/FireWatch.js'
 import SvgTest from './Pages/SvgTest.js'
 import BlackGirl from './Pages/Art/BlackGirl/BlackGirl.js'
+import Anomaly from './Pages/Art/Anomaly/Anomaly.js'
 
 import { ParallaxProvider } from 'react-scroll-parallax';
- 
+
+document.body.addEventListener('touchstart', function( event ){
+  if( this.scrollTop === 0 ) {
+      this.scrollTop += 1;
+  } else if( this.scrollTop + this.offsetHeight >= this.scrollHeight ) {
+      this.scrollTop -= 1;
+  }
+})
 
 export default function App() {
   return (
     <Router>
-        <Switch>
-          <Route path="/parallax/firewatch">
-            <ParallaxProvider>
+        <ParallaxProvider>
+          <Switch>
+            <Route path="/firewatch">
               <FireWatch />
-            </ParallaxProvider>
-          </Route>
-          <Route path="/blackgirl">
-            <ParallaxProvider>
+            </Route>
+            <Route path="/blackgirl">
               <BlackGirl />
-            </ParallaxProvider>
-          </Route>
-          <Route path="/parallax/svg">
-            <ParallaxProvider>
+            </Route>
+            <Route path="/anomaly">
+              <Anomaly />
+            </Route>
+            <Route path="/parallax/svg">
               <SvgTest />
-            </ParallaxProvider>
-          </Route>
-          <Route path="/parallax">
-            <Home />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
-        </Switch>
+            </Route>
+            <Route path="/parallax">
+              <Home />
+            </Route>
+            <Route path="/">
+              <Home />
+            </Route>
+          </Switch>
+        </ParallaxProvider>
     </Router>
   );
 }
